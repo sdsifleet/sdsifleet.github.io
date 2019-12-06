@@ -5,12 +5,6 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
-
 <img src="files/milford_sound.jpg">
 
 <br>
@@ -23,11 +17,11 @@
 
   <p class="tab">Research Data Scientist, Alexa (September 2017 – present)</p>
   
-  <p class="tab">Environmental Data Scientist (December 2016 – September 2017)tab</p>
+  <p class="tab">Environmental Data Scientist (December 2016 – September 2017)</p>
   
 <h4>RTI International</h4>
 
-  <p class="tab">Environmental Data Scientist, RTI International (October 2014 – Dec 2016)tab</p>
+  <p class="tab">Environmental Data Scientist, RTI International (October 2014 – Dec 2016)</p>
 
 <h4>US Environmental Protection Agency</h4>
 
