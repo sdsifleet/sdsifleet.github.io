@@ -37,7 +37,7 @@
 <h3>EDUCATION:</h3>
 
 <h4><p class="tab">Master of Public Policy (2010) from the College of William and Mary</p>
-<p class="tab">Master of Science (2010) from the College of William and Marytab</p></h4>
+<p class="tab">Master of Science (2010) from the College of William and Mary</p></h4>
 
 Thesis: The Toxicology of Decabromodiphenyl Ether in Avian Embryos: Disposition of the Flame Retardant BDE-209 in Yolk-Injected Chicken Embryos (Gallus gallus)
 Used by the US Environmental Protection Agency (EPA) used to support the removal of the product (BDE-209) from the market.
